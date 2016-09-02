@@ -207,6 +207,7 @@ class MetronomeViewController: UIViewController, UITextFieldDelegate{
             
                 //Hello
                 print("hello")
+                print("hello2")
                 self.DJCatToggleState = 2
                 
                 self.glassesCatButton.highlighted = false
