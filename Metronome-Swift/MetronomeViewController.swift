@@ -205,7 +205,8 @@ class MetronomeViewController: UIViewController, UITextFieldDelegate{
                     
                 self.setSoundPlayer("Meow_dubstep", type: "wav")
             
-                
+                //Hello
+                print("hello")
                 self.DJCatToggleState = 2
                 
                 self.glassesCatButton.highlighted = false
