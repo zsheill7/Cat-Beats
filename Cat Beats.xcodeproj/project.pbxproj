@@ -7,25 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B897AC7719E4AC8700820251 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B897AC7619E4AC8700820251 /* AppDelegate.swift */; };
-		B897AC7919E4AC8700820251 /* MetronomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B897AC7819E4AC8700820251 /* MetronomeViewController.swift */; };
 		B897AC7C19E4AC8700820251 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B897AC7A19E4AC8700820251 /* Main.storyboard */; };
-		B897AC7E19E4AC8700820251 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B897AC7D19E4AC8700820251 /* Images.xcassets */; };
 		B897AC8119E4AC8700820251 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B897AC7F19E4AC8700820251 /* LaunchScreen.xib */; };
 		B897AC8D19E4AC8700820251 /* Metronome_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B897AC8C19E4AC8700820251 /* Metronome_SwiftTests.swift */; };
-		B8EE6E9A1A0F050000EA0EF3 /* metronomeClick.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B8EE6E991A0F050000EA0EF3 /* metronomeClick.mp3 */; };
-		C8D2256C1D553562007811DC /* Cat_Angry_Growl_Hiss_Sound_Effect.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D225691D553562007811DC /* Cat_Angry_Growl_Hiss_Sound_Effect.wav */; };
-		C8D2256D1D553562007811DC /* KittenMoan.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D2256A1D553562007811DC /* KittenMoan.wav */; };
-		C8D225711D5536C7007811DC /* Meow Mix 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D2256F1D5536C7007811DC /* Meow Mix 1.mp3 */; };
-		C8D225721D5536C7007811DC /* Meow Mix 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D225701D5536C7007811DC /* Meow Mix 2.mp3 */; };
-		C8D225781D56E217007811DC /* KittenMoanShort.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D225771D56E217007811DC /* KittenMoanShort.mp3 */; };
-		C8D2257A1D56E376007811DC /* KittenMoanMedium.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D225791D56E376007811DC /* KittenMoanMedium.mp3 */; };
-		C8D2257C1D56EAE1007811DC /* Meow Mix.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D2257B1D56EAE1007811DC /* Meow Mix.wav */; };
-		C8D2257E1D56EAE7007811DC /* Meow Mix 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D2257D1D56EAE7007811DC /* Meow Mix 2.wav */; };
-		C8D225801D56EB08007811DC /* cat hiss.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D2257F1D56EB08007811DC /* cat hiss.wav */; };
-		C8D225821D56F1C2007811DC /* Meow_dubstep.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D225811D56F1C2007811DC /* Meow_dubstep.wav */; };
-		C8D225861D57E5BF007811DC /* Meow_dubstep short.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D225841D57E5BF007811DC /* Meow_dubstep short.wav */; };
-		C8D225881D583125007811DC /* Meow_dubstep medium.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D225871D583125007811DC /* Meow_dubstep medium.wav */; };
+		C8D9B83B1E690C5C00EBDEA5 /* Cat_Angry_Growl_Hiss_Sound_Effect.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B82A1E690C5C00EBDEA5 /* Cat_Angry_Growl_Hiss_Sound_Effect.wav */; };
+		C8D9B83C1E690C5C00EBDEA5 /* Meow Mix 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B82B1E690C5C00EBDEA5 /* Meow Mix 2.wav */; };
+		C8D9B83D1E690C5C00EBDEA5 /* Meow Mix.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B82C1E690C5C00EBDEA5 /* Meow Mix.wav */; };
+		C8D9B83E1E690C5C00EBDEA5 /* Meow Mix 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B82D1E690C5C00EBDEA5 /* Meow Mix 2.mp3 */; };
+		C8D9B83F1E690C5C00EBDEA5 /* Meow_dubstep.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B82E1E690C5C00EBDEA5 /* Meow_dubstep.wav */; };
+		C8D9B8401E690C5C00EBDEA5 /* KittenMoan.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B82F1E690C5C00EBDEA5 /* KittenMoan.wav */; };
+		C8D9B8411E690C5C00EBDEA5 /* Meow_dubstep medium.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8301E690C5C00EBDEA5 /* Meow_dubstep medium.wav */; };
+		C8D9B8421E690C5C00EBDEA5 /* cat hiss.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8311E690C5C00EBDEA5 /* cat hiss.wav */; };
+		C8D9B8431E690C5C00EBDEA5 /* Meow Mix 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8321E690C5C00EBDEA5 /* Meow Mix 1.mp3 */; };
+		C8D9B8441E690C5C00EBDEA5 /* Meow_dubstep short.wav in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8331E690C5C00EBDEA5 /* Meow_dubstep short.wav */; };
+		C8D9B8451E690C5C00EBDEA5 /* MetronomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D9B8341E690C5C00EBDEA5 /* MetronomeViewController.swift */; };
+		C8D9B8461E690C5C00EBDEA5 /* KittenMoanMedium.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8351E690C5C00EBDEA5 /* KittenMoanMedium.mp3 */; };
+		C8D9B8471E690C5C00EBDEA5 /* KittenMoanShort.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8361E690C5C00EBDEA5 /* KittenMoanShort.mp3 */; };
+		C8D9B8481E690C5C00EBDEA5 /* metronomeClick.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8371E690C5C00EBDEA5 /* metronomeClick.mp3 */; };
+		C8D9B8491E690C5C00EBDEA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D9B8381E690C5C00EBDEA5 /* AppDelegate.swift */; };
+		C8D9B84A1E690C5C00EBDEA5 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B8391E690C5C00EBDEA5 /* Info.plist */; };
+		C8D9B84B1E690C5C00EBDEA5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8D9B83A1E690C5C00EBDEA5 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,28 +41,28 @@
 
 /* Begin PBXFileReference section */
 		B897AC7119E4AC8700820251 /* Cat Beats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cat Beats.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B897AC7519E4AC8700820251 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B897AC7619E4AC8700820251 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B897AC7819E4AC8700820251 /* MetronomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetronomeViewController.swift; sourceTree = "<group>"; };
 		B897AC7B19E4AC8700820251 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B897AC7D19E4AC8700820251 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B897AC8019E4AC8700820251 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B897AC8619E4AC8700820251 /* Cat Beats.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat Beats.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B897AC8B19E4AC8700820251 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B897AC8C19E4AC8700820251 /* Metronome_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metronome_SwiftTests.swift; sourceTree = "<group>"; };
-		B8EE6E991A0F050000EA0EF3 /* metronomeClick.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = metronomeClick.mp3; sourceTree = "<group>"; };
-		C8D225691D553562007811DC /* Cat_Angry_Growl_Hiss_Sound_Effect.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Cat_Angry_Growl_Hiss_Sound_Effect.wav; sourceTree = "<group>"; };
-		C8D2256A1D553562007811DC /* KittenMoan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = KittenMoan.wav; sourceTree = "<group>"; };
-		C8D2256F1D5536C7007811DC /* Meow Mix 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Meow Mix 1.mp3"; sourceTree = "<group>"; };
-		C8D225701D5536C7007811DC /* Meow Mix 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Meow Mix 2.mp3"; sourceTree = "<group>"; };
-		C8D225771D56E217007811DC /* KittenMoanShort.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = KittenMoanShort.mp3; sourceTree = "<group>"; };
-		C8D225791D56E376007811DC /* KittenMoanMedium.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = KittenMoanMedium.mp3; sourceTree = "<group>"; };
-		C8D2257B1D56EAE1007811DC /* Meow Mix.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow Mix.wav"; sourceTree = "<group>"; };
-		C8D2257D1D56EAE7007811DC /* Meow Mix 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow Mix 2.wav"; sourceTree = "<group>"; };
-		C8D2257F1D56EB08007811DC /* cat hiss.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "cat hiss.wav"; sourceTree = "<group>"; };
-		C8D225811D56F1C2007811DC /* Meow_dubstep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Meow_dubstep.wav; sourceTree = "<group>"; };
-		C8D225841D57E5BF007811DC /* Meow_dubstep short.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow_dubstep short.wav"; sourceTree = "<group>"; };
-		C8D225871D583125007811DC /* Meow_dubstep medium.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Meow_dubstep medium.wav"; sourceTree = "<group>"; };
+		C8D9B82A1E690C5C00EBDEA5 /* Cat_Angry_Growl_Hiss_Sound_Effect.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Cat_Angry_Growl_Hiss_Sound_Effect.wav; path = "Cat Beats/Cat_Angry_Growl_Hiss_Sound_Effect.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B82B1E690C5C00EBDEA5 /* Meow Mix 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Meow Mix 2.wav"; path = "Cat Beats/Meow Mix 2.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B82C1E690C5C00EBDEA5 /* Meow Mix.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Meow Mix.wav"; path = "Cat Beats/Meow Mix.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B82D1E690C5C00EBDEA5 /* Meow Mix 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Meow Mix 2.mp3"; path = "Cat Beats/Meow Mix 2.mp3"; sourceTree = SOURCE_ROOT; };
+		C8D9B82E1E690C5C00EBDEA5 /* Meow_dubstep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Meow_dubstep.wav; path = "Cat Beats/Meow_dubstep.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B82F1E690C5C00EBDEA5 /* KittenMoan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = KittenMoan.wav; path = "Cat Beats/KittenMoan.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B8301E690C5C00EBDEA5 /* Meow_dubstep medium.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Meow_dubstep medium.wav"; path = "Cat Beats/Meow_dubstep medium.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B8311E690C5C00EBDEA5 /* cat hiss.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "cat hiss.wav"; path = "Cat Beats/cat hiss.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B8321E690C5C00EBDEA5 /* Meow Mix 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Meow Mix 1.mp3"; path = "Cat Beats/Meow Mix 1.mp3"; sourceTree = SOURCE_ROOT; };
+		C8D9B8331E690C5C00EBDEA5 /* Meow_dubstep short.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Meow_dubstep short.wav"; path = "Cat Beats/Meow_dubstep short.wav"; sourceTree = SOURCE_ROOT; };
+		C8D9B8341E690C5C00EBDEA5 /* MetronomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MetronomeViewController.swift; path = "Cat Beats/MetronomeViewController.swift"; sourceTree = SOURCE_ROOT; };
+		C8D9B8351E690C5C00EBDEA5 /* KittenMoanMedium.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KittenMoanMedium.mp3; path = "Cat Beats/KittenMoanMedium.mp3"; sourceTree = SOURCE_ROOT; };
+		C8D9B8361E690C5C00EBDEA5 /* KittenMoanShort.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KittenMoanShort.mp3; path = "Cat Beats/KittenMoanShort.mp3"; sourceTree = SOURCE_ROOT; };
+		C8D9B8371E690C5C00EBDEA5 /* metronomeClick.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = metronomeClick.mp3; path = "Cat Beats/metronomeClick.mp3"; sourceTree = SOURCE_ROOT; };
+		C8D9B8381E690C5C00EBDEA5 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "Cat Beats/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
+		C8D9B8391E690C5C00EBDEA5 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Cat Beats/Info.plist"; sourceTree = SOURCE_ROOT; };
+		C8D9B83A1E690C5C00EBDEA5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Cat Beats/Images.xcassets"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,24 +104,25 @@
 		B897AC7319E4AC8700820251 /* Cat Beats */ = {
 			isa = PBXGroup;
 			children = (
-				B897AC7619E4AC8700820251 /* AppDelegate.swift */,
-				B897AC7819E4AC8700820251 /* MetronomeViewController.swift */,
 				B897AC7A19E4AC8700820251 /* Main.storyboard */,
-				B897AC7D19E4AC8700820251 /* Images.xcassets */,
 				B897AC7F19E4AC8700820251 /* LaunchScreen.xib */,
-				B8EE6E991A0F050000EA0EF3 /* metronomeClick.mp3 */,
-				C8D225691D553562007811DC /* Cat_Angry_Growl_Hiss_Sound_Effect.wav */,
-				C8D2256A1D553562007811DC /* KittenMoan.wav */,
-				C8D225771D56E217007811DC /* KittenMoanShort.mp3 */,
-				C8D2257B1D56EAE1007811DC /* Meow Mix.wav */,
-				C8D2257F1D56EB08007811DC /* cat hiss.wav */,
-				C8D2257D1D56EAE7007811DC /* Meow Mix 2.wav */,
-				C8D2256F1D5536C7007811DC /* Meow Mix 1.mp3 */,
-				C8D225871D583125007811DC /* Meow_dubstep medium.wav */,
-				C8D225841D57E5BF007811DC /* Meow_dubstep short.wav */,
-				C8D225701D5536C7007811DC /* Meow Mix 2.mp3 */,
-				C8D225811D56F1C2007811DC /* Meow_dubstep.wav */,
-				C8D225791D56E376007811DC /* KittenMoanMedium.mp3 */,
+				C8D9B82A1E690C5C00EBDEA5 /* Cat_Angry_Growl_Hiss_Sound_Effect.wav */,
+				C8D9B82B1E690C5C00EBDEA5 /* Meow Mix 2.wav */,
+				C8D9B82C1E690C5C00EBDEA5 /* Meow Mix.wav */,
+				C8D9B82D1E690C5C00EBDEA5 /* Meow Mix 2.mp3 */,
+				C8D9B82E1E690C5C00EBDEA5 /* Meow_dubstep.wav */,
+				C8D9B82F1E690C5C00EBDEA5 /* KittenMoan.wav */,
+				C8D9B8301E690C5C00EBDEA5 /* Meow_dubstep medium.wav */,
+				C8D9B8311E690C5C00EBDEA5 /* cat hiss.wav */,
+				C8D9B8321E690C5C00EBDEA5 /* Meow Mix 1.mp3 */,
+				C8D9B8331E690C5C00EBDEA5 /* Meow_dubstep short.wav */,
+				C8D9B8341E690C5C00EBDEA5 /* MetronomeViewController.swift */,
+				C8D9B8351E690C5C00EBDEA5 /* KittenMoanMedium.mp3 */,
+				C8D9B8361E690C5C00EBDEA5 /* KittenMoanShort.mp3 */,
+				C8D9B8371E690C5C00EBDEA5 /* metronomeClick.mp3 */,
+				C8D9B8381E690C5C00EBDEA5 /* AppDelegate.swift */,
+				C8D9B8391E690C5C00EBDEA5 /* Info.plist */,
+				C8D9B83A1E690C5C00EBDEA5 /* Images.xcassets */,
 				B897AC7419E4AC8700820251 /* Supporting Files */,
 			);
 			name = "Cat Beats";
@@ -130,7 +132,6 @@
 		B897AC7419E4AC8700820251 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B897AC7519E4AC8700820251 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -236,22 +237,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8D225781D56E217007811DC /* KittenMoanShort.mp3 in Resources */,
-				C8D2256D1D553562007811DC /* KittenMoan.wav in Resources */,
-				C8D225881D583125007811DC /* Meow_dubstep medium.wav in Resources */,
-				C8D2257C1D56EAE1007811DC /* Meow Mix.wav in Resources */,
-				C8D225861D57E5BF007811DC /* Meow_dubstep short.wav in Resources */,
-				B8EE6E9A1A0F050000EA0EF3 /* metronomeClick.mp3 in Resources */,
-				C8D2256C1D553562007811DC /* Cat_Angry_Growl_Hiss_Sound_Effect.wav in Resources */,
-				C8D225801D56EB08007811DC /* cat hiss.wav in Resources */,
-				C8D225721D5536C7007811DC /* Meow Mix 2.mp3 in Resources */,
-				C8D225711D5536C7007811DC /* Meow Mix 1.mp3 in Resources */,
-				C8D2257E1D56EAE7007811DC /* Meow Mix 2.wav in Resources */,
-				C8D225821D56F1C2007811DC /* Meow_dubstep.wav in Resources */,
+				C8D9B83E1E690C5C00EBDEA5 /* Meow Mix 2.mp3 in Resources */,
+				C8D9B8461E690C5C00EBDEA5 /* KittenMoanMedium.mp3 in Resources */,
+				C8D9B8411E690C5C00EBDEA5 /* Meow_dubstep medium.wav in Resources */,
+				C8D9B84B1E690C5C00EBDEA5 /* Images.xcassets in Resources */,
+				C8D9B84A1E690C5C00EBDEA5 /* Info.plist in Resources */,
+				C8D9B8481E690C5C00EBDEA5 /* metronomeClick.mp3 in Resources */,
+				C8D9B8401E690C5C00EBDEA5 /* KittenMoan.wav in Resources */,
+				C8D9B83B1E690C5C00EBDEA5 /* Cat_Angry_Growl_Hiss_Sound_Effect.wav in Resources */,
+				C8D9B8441E690C5C00EBDEA5 /* Meow_dubstep short.wav in Resources */,
+				C8D9B8421E690C5C00EBDEA5 /* cat hiss.wav in Resources */,
+				C8D9B8471E690C5C00EBDEA5 /* KittenMoanShort.mp3 in Resources */,
+				C8D9B83D1E690C5C00EBDEA5 /* Meow Mix.wav in Resources */,
 				B897AC7C19E4AC8700820251 /* Main.storyboard in Resources */,
-				C8D2257A1D56E376007811DC /* KittenMoanMedium.mp3 in Resources */,
+				C8D9B8431E690C5C00EBDEA5 /* Meow Mix 1.mp3 in Resources */,
+				C8D9B83F1E690C5C00EBDEA5 /* Meow_dubstep.wav in Resources */,
 				B897AC8119E4AC8700820251 /* LaunchScreen.xib in Resources */,
-				B897AC7E19E4AC8700820251 /* Images.xcassets in Resources */,
+				C8D9B83C1E690C5C00EBDEA5 /* Meow Mix 2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,8 +271,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B897AC7919E4AC8700820251 /* MetronomeViewController.swift in Sources */,
-				B897AC7719E4AC8700820251 /* AppDelegate.swift in Sources */,
+				C8D9B8491E690C5C00EBDEA5 /* AppDelegate.swift in Sources */,
+				C8D9B8451E690C5C00EBDEA5 /* MetronomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
